@@ -1,0 +1,91 @@
+{
+  "images": {
+    "img1": "/manus-storage/1000000000000300000003FCD14BB141BE886564_512b485b.jpg",
+    "img2": "/manus-storage/10000000000004B0000006407806BED639CB2657_86822993.jpg",
+    "img3": "/manus-storage/10000000000005FA000007F863DC7983004036A9_dcef36e1.jpg",
+    "img4": "/manus-storage/10000000000005FA000007F8BF6B115143817374_aa9f010f.jpg",
+    "img5": "/manus-storage/10000000000006400000024A7AE03F383C1A8603_19d12ac5.jpg",
+    "img6": "/manus-storage/10000000000007F8000005FAEFD25A7752408571_8abb4ed1.jpg",
+    "img7": "/manus-storage/1000000000000BD000000FC03B731E2AC1975898_f46c58b2.jpg",
+    "img8": "/manus-storage/100000010000023A000002EFD8489629D138A73F_dd9a6b15.png",
+    "img9": "/manus-storage/100000010000025C0000033161075622A5E8CC1C_9b70103b.png",
+    "img10": "/manus-storage/100000010000030700000241AC27B95B67B586C2_c06771a6.png",
+    "img11": "/manus-storage/10000001000003C300000421B474B063267ED61A_cabfb372.png",
+    "img12": "/manus-storage/100000010000070F00000388A0B345DAD18BDD7B_b4e4a9c5.png",
+    "img13": "/manus-storage/1000000100000761000003B6170C2C32A30B2EF8_c12b2aab.png"
+  },
+  "projects": {
+    "I": {
+      "title": "Conception et Programmation d'un Système Embarqué",
+      "subtitle": "Programmation embarquée et prototypage matériel",
+      "projects": [
+        {
+          "id": 1,
+          "title": "Système de Distribution Automatisé",
+          "desc": "Conception d'un système de distribution automatisé utilisant Arduino, capteurs et interface LCD",
+          "image": "img1"
+        }
+      ]
+    },
+    "II": {
+      "title": "Instrumentation et Chaîne de Mesure",
+      "subtitle": "Mesure et acquisition de données",
+      "projects": [
+        {
+          "id": 2,
+          "title": "Mesure de Débit avec Débitmètre Électromagnétique",
+          "desc": "Acquisition et traitement de signaux de débit utilisant un débitmètre électromagnétique",
+          "image": "img2"
+        },
+        {
+          "id": 3,
+          "title": "Mesure de Température avec Thermocouple",
+          "desc": "Chaîne de mesure complète pour l'acquisition de température",
+          "image": "img3"
+        }
+      ]
+    },
+    "III": {
+      "title": "Métrologie et Contrôle de Qualité",
+      "subtitle": "Étalonnage et vérification d'instruments",
+      "projects": [
+        {
+          "id": 4,
+          "title": "Étalonnage d'une Balance Analytique",
+          "desc": "Procédure complète d'étalonnage selon les normes métrologiques",
+          "image": "img4"
+        },
+        {
+          "id": 5,
+          "title": "Vérification d'un Multimètre Numérique",
+          "desc": "Vérification des performances et de la précision d'un multimètre",
+          "image": "img5"
+        }
+      ]
+    },
+    "IV": {
+      "title": "Caractérisation de Matériaux",
+      "subtitle": "Analyse physico-chimique et propriétés des matériaux",
+      "projects": [
+        {
+          "id": 6,
+          "title": "MCPC : Caractérisation physico-chimique de Matériaux Inconnus",
+          "desc": "Utilisation de DSC et spectrométrie infrarouge pour identifier des matériaux",
+          "image": "img6"
+        }
+      ]
+    },
+    "V": {
+      "title": "Cahier des Charges et Démarche Environnementale",
+      "subtitle": "Analyse électrochimique et mesures environnementales",
+      "projects": [
+        {
+          "id": 7,
+          "title": "Analyse Électrochimique des Ions Plomb (Pb²⁺)",
+          "desc": "Potentiométrie pour quantifier les ions plomb en solution",
+          "image": "img7"
+        }
+      ]
+    }
+  }
+}
